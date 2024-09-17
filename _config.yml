@@ -21,7 +21,7 @@ repository               : "Deepubhatt/Deepubhatt.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Photo.png"
   name             : "Deepak Bhatt"
   pronouns         : # example: "she/her"  
   bio              : "Aspiring Data Analyst"
