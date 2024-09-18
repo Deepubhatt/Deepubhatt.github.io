@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "<span style='text-align: center; display: block;'>Resume</span>"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,4 +11,4 @@ redirect_from:
 
 <img src = "https://deepubhatt.github.io/DeepakB_Resume.jpg" width = "600">{: .align-center}
 
-[Click here to Download my Resume](https://deepubhatt.github.io/DeepakB_Resume.pdf){: .btn .btn--primary .btn--large}
+<span style='text-align: center; display: block;'> [Click here to Download my Resume](https://deepubhatt.github.io/DeepakB_Resume.pdf){: .btn .btn--primary} </span>
