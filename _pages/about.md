@@ -7,7 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I’m **Deepak Bhatt**, hailing from the beautiful state of Uttarakhand, and I am currently living in Greater Noida. I hold a Master's degree in Mathematics from _Central University of Karnataka (2022)_ and a Bachelor's degree in Mathematics with Honors from _Dyal Singh College, Delhi University_. My interest in mathematics began during my 12th at _Army Public School, Meerut_, where I studied in the science stream and developed a strong passion for **Mathematics**.
+I’m **Deepak Bhatt**, hailing from the beautiful state of *Uttarakhand*, and currently living in **Greater Noida**.
+
+I hold an **M.Sc. in Mathematics** from *Central University of Karnataka* and a **B.Sc. (Hons) in Mathematics** from *Dyal Singh College, Delhi University*.
+
+My interest in mathematics began during my **12**<sup>**th**</sup> at *Army Public School, Meerut*, where I studied in the science stream and developed a strong passion for **Mathematics**.
 
 After completing my post-graduation, I explored several fields before diving into **Data Science and Analytics**. This transition led me to acquire a strong skill set, which includes:
 
