@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-![My Resume](DeepakB_Resume.jpg)
+![My Resume](https://deepubhatt.github.io/DeepakB_Resume.jpg)
 
-[Download My Resume](DeepakB_Resume.pdf){: .btn .btn--primary .btn--large}
+[Download My Resume](https://deepubhatt.github.io/DeepakB_Resume.pdf){: .btn .btn--primary .btn--large}
