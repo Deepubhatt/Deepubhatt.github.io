@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-![My Resume](https://deepubhatt.github.io/DeepakB_Resume.jpg)
+<img src = "https://deepubhatt.github.io/DeepakB_Resume.jpg" width = "400">{: .align-center}
 
-[Download My Resume](https://deepubhatt.github.io/DeepakB_Resume.pdf){: .btn .btn--primary .btn--large}
+[Download My Resume](https://deepubhatt.github.io/DeepakB_Resume.pdf){: .btn .btn--primary .btn--large}{: .align-center}
