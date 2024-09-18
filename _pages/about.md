@@ -19,12 +19,12 @@ After completing my post-graduation, I explored several fields before diving int
 - **Data Visualization**: Tableau, Power BI, Matplotlib, Seaborn
 - **Machine Learning & AI**: Hands-on experience in various models (Logistic Regression, Random Forest, XGBoost, etc.)
 
-I am passionate about solving real-world problems using data and love to leverage my mathematical background to tackle complex analytical challenges. Whether it's analyzing large datasets or building predictive models, I am always excited about learning new techniques and improving my skills.
-
 <span style = "font-family: Georgia;"> Why Data Science? </span>
 =======
 
-Data Science appeals to me for a number of reasons. My background in mathematics has ingrained in me the ability to think logically and solve complex problems systematically, which aligns well with the problem-solving nature of Data Science. As the world becomes more data-driven, mastering tools and techniques in this field is not only exciting but essential for contributing to real-world solutions.
+Data Science excites me because it combines my passion for *solving real-world problems* with my strong mathematical background. The logical thinking and problem-solving skills I’ve developed through mathematics allow me to tackle complex analytical challenges effectively.
+
+I enjoy working with large datasets, building predictive models, and continuously learning new tools and techniques to improve my skills in this ever-evolving, **data-driven world**.
 
 The growth of **Machine Learning and Artificial Intelligence (AI)** also fascinates me, and I believe that combining these skills with my foundation in mathematics and analytics will allow me to have a meaningful impact in the industry.
 
