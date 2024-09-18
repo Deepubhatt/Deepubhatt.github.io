@@ -10,6 +10,10 @@
  *
 */
 
+.page__title {
+    text-align: center;
+}
+
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
 @import "mixins";
