@@ -17,7 +17,12 @@ After completing my post-graduation, I explored several fields before diving int
 
 I am passionate about solving real-world problems using data and love to leverage my mathematical background to tackle complex analytical challenges. Whether it's analyzing large datasets or building predictive models, I am always excited about learning new techniques and improving my skills.
 
-<h2 style = "font-family: Georgia;"> Why Data Science? </h2>
+<span style = "font-family: Georgia;">  
+
+<span style="color:crimson;"> Why Data Science? </span>
+========
+
+</span>
 
 Data Science appeals to me for a number of reasons. My background in mathematics has ingrained in me the ability to think logically and solve complex problems systematically, which aligns well with the problem-solving nature of Data Science. As the world becomes more data-driven, mastering tools and techniques in this field is not only exciting but essential for contributing to real-world solutions.
 
