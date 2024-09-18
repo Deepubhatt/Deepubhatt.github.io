@@ -17,18 +17,15 @@ After completing my post-graduation, I explored several fields before diving int
 
 I am passionate about solving real-world problems using data and love to leverage my mathematical background to tackle complex analytical challenges. Whether it's analyzing large datasets or building predictive models, I am always excited about learning new techniques and improving my skills.
 
-<span style = "font-family: Georgia;">  
-
-<span style="color:crimson;"> Why Data Science? </span>
-========
-
-</span>
+<span style = "font-family: Georgia;"> Why Data Science? </span>
+=======
 
 Data Science appeals to me for a number of reasons. My background in mathematics has ingrained in me the ability to think logically and solve complex problems systematically, which aligns well with the problem-solving nature of Data Science. As the world becomes more data-driven, mastering tools and techniques in this field is not only exciting but essential for contributing to real-world solutions.
 
 The growth of **Machine Learning and Artificial Intelligence (AI)** also fascinates me, and I believe that combining these skills with my foundation in mathematics and analytics will allow me to have a meaningful impact in the industry.
 
-<h2 style = "font-family: Georgia;"> About This Site </h2>
+<span style = "font-family: Georgia;"> About this Site </span>
+=======
 
 I have created this site using [**GitHub Pages**](https://github.com/academicpages/academicpages.github.io) to serve as a comprehensive portfolio of my work. Here, you will find:
 
@@ -39,7 +36,7 @@ I have created this site using [**GitHub Pages**](https://github.com/academicpag
 
 Feel free to navigate through the sections above to explore my work!
 
-<h2 style = "font-family: Georgia;"> Get in Touch </h2>
+<h1 style = "font-family: Georgia;"> Get in Touch </h1>
 
 I am always open to discussions, collaborations, and new opportunities. You can find me active on [GitHub](https://github.com/Deepubhatt) and [LinkedIn](https://www.linkedin.com/in/deepakbhatt17/), or reach out via the contact information given in the sidebar.
 
