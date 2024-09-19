@@ -1,13 +1,12 @@
 ---
 layout: archive
 title: "Projects"
-permalink: /portfolio/
+permalink: /projects/
 toc: true
 toc_label: "Table of Contents"
 author_profile: true
 
 ---
-{% include toc %}
 {% include base_path %}
 
 ### 120 Years of Olympic History Analysis
