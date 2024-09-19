@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Resume"
+title: "<span style='font-family: Georgia, serif; color: blue;'>Resume</span>"
 permalink: /resume/
 author_profile: true
 redirect_from:
