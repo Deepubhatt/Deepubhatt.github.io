@@ -8,12 +8,12 @@ main:
 
   - title: "Projects"
     url: /projects/
+
+  - title: "Resume"
+    url: /resume/
         
   - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "Resume"
-    url: /cv/
+    url: /blogs/
     
   - title: "Certifications"
-    url: /markdown/
+    url: /certifications/
