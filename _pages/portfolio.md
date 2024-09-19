@@ -5,8 +5,9 @@ permalink: /portfolio/
 toc: true
 toc_label: "Table of Contents"
 author_profile: true
----
 
+---
+{% include toc %}
 {% include base_path %}
 
 # Project 1
