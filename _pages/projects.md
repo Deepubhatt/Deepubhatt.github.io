@@ -13,9 +13,23 @@ author_profile: true
 
 ![Cover](https://Deepubhatt.github.io/images/Hotel_Booking_Analysis_Cover.png)
 
+I conducted an in-depth analysis of hotel booking data to uncover patterns behind cancellation rates. By leveraging Python for data exploration and visualization, I identified key factors contributing to cancellations, including booking lead time, customer demographics, and special requests. Based on these insights, I proposed actionable strategies to optimize bookings and improve revenue management. This project also includes predictive models to forecast cancellation likelihood, aiding hotels in making data-driven decisions.
+
+-------
+
 <img src = "https://Deepubhatt.github.io/images/Hotel_Booking_Analysis_Cover.png" width = "650">
 
+I conducted an in-depth analysis of hotel booking data to uncover patterns behind cancellation rates. By leveraging Python for data exploration and visualization, I identified key factors contributing to cancellations, including booking lead time, customer demographics, and special requests. Based on these insights, I proposed actionable strategies to optimize bookings and improve revenue management. This project also includes predictive models to forecast cancellation likelihood, aiding hotels in making data-driven decisions.
+
+-------
 <img src = "https://Deepubhatt.github.io/images/Hotel_Booking_Analysis_Cover.png" width = "650">{: .align-center}
+
+I conducted an in-depth analysis of hotel booking data to uncover patterns behind cancellation rates. By leveraging Python for data exploration and visualization, I identified key factors contributing to cancellations, including booking lead time, customer demographics, and special requests. Based on these insights, I proposed actionable strategies to optimize bookings and improve revenue management. This project also includes predictive models to forecast cancellation likelihood, aiding hotels in making data-driven decisions.
+
+-------
+
+<img src="https://Deepubhatt.github.io/images/Hotel_Booking_Analysis_Cover.png" style="max-width: 100%; height: auto; width: 1000px; display: block; margin: 0 auto;">
+
 
 I conducted an in-depth analysis of hotel booking data to uncover patterns behind cancellation rates. By leveraging Python for data exploration and visualization, I identified key factors contributing to cancellations, including booking lead time, customer demographics, and special requests. Based on these insights, I proposed actionable strategies to optimize bookings and improve revenue management. This project also includes predictive models to forecast cancellation likelihood, aiding hotels in making data-driven decisions.
 
