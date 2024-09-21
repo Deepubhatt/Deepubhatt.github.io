@@ -14,13 +14,7 @@ author_profile: true
 ![Cover](images/Hotel_Booking_Analysis_Cover.png)
 
 
-[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=googlecolab&logoColor=%23F9AB00)](https://deepubhatt.github.io/Deepubhatt.github.io/ipynb-html/Hotel_Booking_Analysis_col.html)
-
-[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=googlecolab&logoColor=%23F9AB00)](https://Deepubhatt.github.io/ipynb-html/Hotel_Booking_Analysis_col.html)
-
-[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=googlecolab&logoColor=%23F9AB00)](https://deepubhatt.github.io/Deepubhatt.github.io/ipynb-html/Hotel_Booking_Analysis_ver.html)
-
-[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=googlecolab&logoColor=%23F9AB00)](https://Deepubhatt.github.io/ipynb-html/Hotel_Booking_Analysis_ver.html)
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=googlecolab&logoColor=%23F9AB00)](https://deepubhatt.github.io/ipynb-html/Hotel_Booking_Analysis_col.html)
 
 
 
