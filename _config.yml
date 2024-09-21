@@ -11,7 +11,7 @@ locale                   : "en-IN"
 title                    : "Deepak Bhatt | Data Science & Analytics Portfolio"
 title_separator          : "-"
 name                     : &name "Deepak Bhatt"
-description              : &description "Aspiring Data Analyst"
+description              : &description "Aspiring Data Professional"
 url                      : https://Deepubhatt.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Deepubhatt/Deepubhatt.github.io"
@@ -24,7 +24,7 @@ author:
   avatar           : "Photo.png"
   name             : "Deepak Bhatt"
   pronouns         : # example: "she/her"  
-  bio              : "Aspiring Data Analyst"
+  bio              : "It is a capital mistake to theorize before one has data."
   location         : "Greater Noida, Uttar Pradesh"
   employer         : #"Red Brick University"
   uri              : # URL
@@ -116,7 +116,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
 
