@@ -9,5 +9,5 @@ author_profile: true
 
 ## Hotel Cancellation Rate Analysis and Revenue Optimization
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](ipynb-to-html/Hotel-Booking-Analysis.html)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](ipynb-to-html/Hotel-Booking-Analysis-New.html)
 
