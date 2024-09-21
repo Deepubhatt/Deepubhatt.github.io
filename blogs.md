@@ -14,7 +14,7 @@ author_profile: true
 
 This project analyzes 120 years of Olympic history, highlighting trends in athlete participation, country performance, and gender-based insights. It also explores key attributes like age, height, and weight, along with host city patterns from 1896 to 2016.
 
-<a href="https://medium.com/@deepakbhatt17/uncovering-120-years-of-olympic-history-a-data-analysis-project-in-excel-f48ff9bcae51">Read Full Article Here</a>
+<a href="https://medium.com/@deepakbhatt17/uncovering-120-years-of-olympic-history-a-data-analysis-project-in-excel-f48ff9bcae51" class="btn btn-primary">Read Full Article Here</a>
 
 ---
 
