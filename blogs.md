@@ -14,7 +14,7 @@ author_profile: true
 
 This project analyzes 120 years of Olympic history, highlighting trends in athlete participation, country performance, and gender-based insights. It also explores key attributes like age, height, and weight, along with host city patterns from 1896 to 2016.
 
-<a href="https://medium.com/@deepakbhatt17/uncovering-120-years-of-olympic-history-a-data-analysis-project-in-excel-f48ff9bcae51" class="btn btn-primary">Read Full Article Here</a>
+<a href="https://medium.com/@deepakbhatt17/uncovering-120-years-of-olympic-history-a-data-analysis-project-in-excel-f48ff9bcae51" class="custom-btn" style="background-color: #4272D4; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-size: 16px; font-family: Georgia, serif;">Read Full Article Here</a>
 
 ---
 
@@ -25,6 +25,6 @@ This project analyzes 120 years of Olympic history, highlighting trends in athle
 
 This project dives into the Global Terrorism Database (1970-2017), using Tableau to visualize trends, geographical hotspots, and group activities. It highlights key insights into global terrorism patterns and my proficiency in data visualization through compelling, interactive visuals.
 
-<a href="https://www.linkedin.com/posts/deepakbhatt17_dataanalysis-datavisualization-tableau-activity-7108361231161286656-9eey?utm_source=share&utm_medium=member_desktop" class="btn btn-primary">Read Full Article Here</a>
+<a href="https://www.linkedin.com/posts/deepakbhatt17_dataanalysis-datavisualization-tableau-activity-7108361231161286656-9eey?utm_source=share&utm_medium=member_desktop" class="custom-btn" style="background-color: #4272D4; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-size: 16px; font-family: Georgia, serif;">Read Full Article Here</a>
 
 ---
