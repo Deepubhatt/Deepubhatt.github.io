@@ -52,5 +52,4 @@ Feel free to navigate through the sections above to explore my work! </span>
 I am always open to discussions, collaborations, and new opportunities. You can find me active on [GitHub](https://github.com/Deepubhatt) and [LinkedIn](https://www.linkedin.com/in/deepakbhatt17/), or reach out via the contact information given in the sidebar. </span>
 
 ---
-> [!NOTE]
 > <span style = "font-family: Cambria;"> _This website is a work in progress, and I am continuously updating it with new projects and insights as I learn and grow._ </span>
