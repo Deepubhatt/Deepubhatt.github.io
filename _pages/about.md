@@ -18,10 +18,9 @@ My interest in mathematics began during my 12<sup>th</sup> at *Army Public Schoo
 <span style = "font-family: Cambria;">
 After completing my post-graduation, I explored several fields before diving into **Data Science and Analytics**. This transition led me to acquire a strong skill set, which includes: </span>
 
-<span style = "font-family: Cambria;">
-- **Programming & Data Analysis**: Python, SQL, Excel
-- **Data Visualization**: Tableau, Power BI, Matplotlib, Seaborn
-- **Machine Learning & AI**: Hands-on experience in various models (Logistic Regression, Random Forest, XGBoost, etc.) </span>
+- <span style = "font-family: Cambria;"> **Programming & Data Analysis**: Python, SQL, Excel </span>
+- <span style = "font-family: Cambria;"> **Data Visualization**: Tableau, Power BI, Matplotlib, Seaborn </span>
+- <span style = "font-family: Cambria;"> **Machine Learning & AI**: Hands-on experience in various models (Logistic Regression, Random Forest, XGBoost, etc.) </span>
 
 ## <span style = "font-family: Georgia;"> Why Data Science? </span>
 
@@ -39,11 +38,10 @@ The growth of **Machine Learning and Artificial Intelligence (AI)** also fascina
 <span style = "font-family: Cambria;">
 I have created this site using [**GitHub Pages**](https://github.com/academicpages/academicpages.github.io) to serve as a comprehensive portfolio of my work. Here, you will find: </span>
 
-<span style = "font-family: Cambria;">
-- **Projects**: A showcase of data projects I have worked on, ranging from exploratory data analysis to machine learning.
-- **Resume**: My professional resume, which you can view and download.
-- **Blog Posts**: Articles I've written sharing insights, analysis, or technical tutorials.
-- **Certifications**: Certifications and courses I completed during my journey. </span>
+- <span style = "font-family: Cambria;"> **Projects**: A showcase of data projects I have worked on, ranging from exploratory data analysis to machine learning. </span>
+- <span style = "font-family: Cambria;"> **Resume**: My professional resume, which you can view and download. </span>
+- <span style = "font-family: Cambria;"> **Blog Posts**: Articles I've written sharing insights, analysis, or technical tutorials. </span>
+- <span style = "font-family: Cambria;"> **Certifications**: Certifications and courses I completed during my journey. </span>
 
 <span style = "font-family: Cambria;">
 Feel free to navigate through the sections above to explore my work! </span>
