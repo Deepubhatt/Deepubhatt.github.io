@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<span style = "font-family: Caladea;">
 I’m **Deepak Bhatt**, hailing from the beautiful state of *Uttarakhand*, and currently living in *Greater Noida, Uttar Pradesh*.
 
 I hold an **M.Sc. in Mathematics** from *Central University of Karnataka* and a **B.Sc. (Hons) in Mathematics** from *Dyal Singh College, Delhi University*.
@@ -17,7 +17,7 @@ After completing my post-graduation, I explored several fields before diving int
 
 - **Programming & Data Analysis**: Python, SQL, Excel
 - **Data Visualization**: Tableau, Power BI, Matplotlib, Seaborn
-- **Machine Learning & AI**: Hands-on experience in various models (Logistic Regression, Random Forest, XGBoost, etc.)
+- **Machine Learning & AI**: Hands-on experience in various models (Logistic Regression, Random Forest, XGBoost, etc.) </span>
 
 ## <span style = "font-family: Georgia;"> Why Data Science? </span>
 
