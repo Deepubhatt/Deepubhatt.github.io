@@ -7,6 +7,14 @@ redirect_from:
   - /certifications.md
 ---
 
+## <span style="font-family: Cambria;">Data Science Placement Guarantee Course</span>  
+<div style="display: flex; justify-content: space-between; font-family: Cambria;">
+    <span></span> 
+    <span>*September 2024*</span>
+</div>
+<span style="font-family: Cambria;">**Issued by:** *Internshala*</span>
+
+
 ## <span style="font-family: Cambria;"> Data Science Placement Guarantee Course </span> 
 <span style="float: right; font-family: Cambria;">*September 2024*</span>  
 <span style="font-family: Cambria;">**Issued by:** *Internshala*</span>
