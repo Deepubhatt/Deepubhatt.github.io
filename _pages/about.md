@@ -21,8 +21,6 @@ After completing my post-graduation, I explored several fields before diving int
 
 ## <span style = "font-family: Georgia;"> Why Data Science? </span>
 
-----
-
 Data Science excites me because it combines my passion for *solving real-world problems* with my strong mathematical background. The logical thinking and problem-solving skills I’ve developed through mathematics allow me to tackle complex analytical challenges effectively.
 
 I enjoy working with large datasets, building predictive models, and continuously learning new tools and techniques to improve my skills in this *ever-evolving data-driven world*.
@@ -30,8 +28,6 @@ I enjoy working with large datasets, building predictive models, and continuousl
 The growth of **Machine Learning and Artificial Intelligence (AI)** also fascinates me, and I believe that combining these skills with my foundation in mathematics and analytics will allow me to have a meaningful impact in the industry.
 
 ## <span style = "font-family: Georgia;"> About this Site </span>
-
-----
 
 I have created this site using [**GitHub Pages**](https://github.com/academicpages/academicpages.github.io) to serve as a comprehensive portfolio of my work. Here, you will find:
 
@@ -43,8 +39,6 @@ I have created this site using [**GitHub Pages**](https://github.com/academicpag
 Feel free to navigate through the sections above to explore my work!
 
 ## <span style = "font-family: Georgia;"> Get in Touch </span>
-
-----
 
 I am always open to discussions, collaborations, and new opportunities. You can find me active on [GitHub](https://github.com/Deepubhatt) and [LinkedIn](https://www.linkedin.com/in/deepakbhatt17/), or reach out via the contact information given in the sidebar.
 
