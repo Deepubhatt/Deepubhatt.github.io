@@ -8,11 +8,11 @@ redirect_from:
 ---
 
 ## <span style="font-family: Cambria;">Data Science Placement Guarantee Course</span>  
-<div style="display: flex; justify-content: space-between; font-family: Cambria;">
-    <span></span> 
-    <span>*September 2024*</span>
-</div>
+<span style="font-family: Cambria; display: inline-block; width: 70%;"> </span>
+<span style="font-family: Cambria; display: inline-block; text-align: right;">*September 2024*</span>  
+<br>
 <span style="font-family: Cambria;">**Issued by:** *Internshala*</span>
+
 
 
 ## <span style="font-family: Cambria;"> Data Science Placement Guarantee Course </span> 
