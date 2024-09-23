@@ -7,8 +7,8 @@ redirect_from:
   - /certifications.md
 ---
 
-## <span style="font-family: Cambria;"> Data Science Placement Guarantee Course </span> 
-<span style="font-family: Cambria;">**Issued by:** *Internshala*</span> <span style="float: right; font-family: Cambria;">*September 2024*</span>  
+## <span style="font-family: Cambria;"> Data Science Placement Guarantee Course </span> <span style="float: right; font-family: Cambria;">*September 2024*</span>
+<span style="font-family: Cambria;">**Issued by:** *Internshala*</span>   
 
 
 * Completed a 4-month Placement Guarantee Course in Data Science from **Internshala** with an **87% score**!
