@@ -93,6 +93,6 @@ author_profile: true
 - <span style="font-family: Cambria;"> **Excel:** For data loading, cleaning, formatting, and visualization </span>
 - <span style="font-family: Cambria;"> **Google Sheets:** For generating reports </span>
 
-<span style="font-family: Cambria;"> Using these tools, I explored critical questions surrounding sustainable growth. Through an *in-depth analysis* of factors such as GDP per capita, population, energy consumption, CO2 emissions, etc., I identified *key drivers* that significantly impact long-term growth, including energy consumption, healthcare expenditure per capita, and the internet-savvy population. *Scatter plots* were built for bivariate analysis, particularly to understand the relationship between GDP per capita and other variables, alongside *correlation coefficients* to measure the strength of these relationships. </span>
+<span style="font-family: Cambria;"> Using these tools, I explored critical questions surrounding sustainable growth. Through an *in-depth analysis* of factors such as GDP per capita, population, energy consumption, CO<sub>2</sub> emissions, etc., I identified *key drivers* that significantly impact long-term growth, including energy consumption, healthcare expenditure per capita, and the internet-savvy population. *Scatter plots* were built for bivariate analysis, particularly to understand the relationship between GDP per capita and other variables, alongside *correlation coefficients* to measure the strength of these relationships. </span>
 
 -------
