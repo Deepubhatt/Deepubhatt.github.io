@@ -1,3 +1,5 @@
+<!--
+
 ---
 layout: archive
 title: "Resume"
@@ -14,3 +16,5 @@ redirect_from:
 </div>
 
 <img src = "https://deepubhatt.github.io/DeepakBhatt_Resume.png" width = "650">{: .align-center}
+
+-->
